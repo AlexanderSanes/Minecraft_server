@@ -1,0 +1,23 @@
+[00:01:52] [Server thread/INFO]: sanes[/25.118.22.169:43918] logged in with entity id 72 at (-375.57108160013377, 71.0, 1236.3663705089061)
+[00:01:53] [Server thread/INFO]: sanes joined the game
+[00:01:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3541ms or 70 ticks behind
+[00:02:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24721ms or 494 ticks behind
+[00:03:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19611ms or 392 ticks behind
+[00:03:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9610ms or 192 ticks behind
+[00:04:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14549ms or 290 ticks behind
+[00:04:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3427ms or 68 ticks behind
+[00:04:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6592ms or 131 ticks behind
+[00:05:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2896ms or 57 ticks behind
+[00:06:26] [Server thread/INFO]: Stopping the server
+[00:06:26] [Server thread/INFO]: Stopping server
+[00:06:26] [Server thread/INFO]: Saving players
+[00:06:27] [Server thread/INFO]: Saving worlds
+[00:06:27] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:06:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:06:29] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[00:06:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:06:29] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:06:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:06:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:06:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:06:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
