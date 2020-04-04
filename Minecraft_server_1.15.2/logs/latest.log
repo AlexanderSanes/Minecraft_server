@@ -1,23 +1,120 @@
-[00:01:52] [Server thread/INFO]: sanes[/25.118.22.169:43918] logged in with entity id 72 at (-375.57108160013377, 71.0, 1236.3663705089061)
-[00:01:53] [Server thread/INFO]: sanes joined the game
-[00:01:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3541ms or 70 ticks behind
-[00:02:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24721ms or 494 ticks behind
-[00:03:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19611ms or 392 ticks behind
-[00:03:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9610ms or 192 ticks behind
-[00:04:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14549ms or 290 ticks behind
-[00:04:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3427ms or 68 ticks behind
-[00:04:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6592ms or 131 ticks behind
-[00:05:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2896ms or 57 ticks behind
-[00:06:26] [Server thread/INFO]: Stopping the server
-[00:06:26] [Server thread/INFO]: Stopping server
-[00:06:26] [Server thread/INFO]: Saving players
-[00:06:27] [Server thread/INFO]: Saving worlds
-[00:06:27] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[00:06:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:06:29] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[00:06:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:06:29] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[00:06:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:06:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:06:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:06:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:00:37] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:00:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:00:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:00:37] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:00:37] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:00:39] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[20:00:39] [Server thread/INFO]: Loading properties
+[20:00:39] [Server thread/INFO]: Default game type: SURVIVAL
+[20:00:39] [Server thread/INFO]: Generating keypair
+[20:00:40] [Server thread/INFO]: Starting Minecraft server on 25.123.151.119:25565
+[20:00:40] [Server thread/INFO]: Using epoll channel type
+[20:00:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:00:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:00:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:00:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:00:40] [Server thread/INFO]: Preparing level "world"
+[20:00:41] [Server thread/INFO]: Reloading ResourceManager: Default
+[20:00:42] [Server thread/INFO]: Loaded 6 recipes
+[20:00:43] [Server thread/INFO]: Loaded 825 advancements
+[20:00:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:01:01] [Server thread/INFO]: Preparing spawn area: 0%
+[20:01:01] [Server thread/INFO]: Preparing spawn area: 0%
+[20:01:01] [Server thread/INFO]: Preparing spawn area: 0%
+[20:01:01] [Server thread/INFO]: Preparing spawn area: 0%
+[20:01:01] [Server thread/INFO]: Preparing spawn area: 0%
+[20:01:01] [Server thread/INFO]: Preparing spawn area: 0%
+[20:01:01] [Server thread/INFO]: Preparing spawn area: 0%
+[20:01:01] [Server thread/INFO]: Preparing spawn area: 60%
+[20:01:06] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[20:01:06] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[20:01:06] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[20:01:06] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[20:01:06] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[20:01:06] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[20:01:06] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[20:01:06] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[20:01:06] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[20:01:06] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[20:01:07] [Server thread/INFO]: Preparing spawn area: 83%
+[20:01:07] [Server thread/INFO]: Preparing spawn area: 83%
+[20:01:08] [Server-Worker-1/INFO]: Preparing spawn area: 96%
+[20:01:08] [Server-Worker-3/INFO]: Preparing spawn area: 96%
+[20:01:11] [Server-Worker-3/INFO]: Preparing spawn area: 96%
+[20:01:11] [Server-Worker-3/INFO]: Preparing spawn area: 96%
+[20:01:11] [Server thread/INFO]: Preparing spawn area: 96%
+[20:01:11] [Server thread/INFO]: Preparing spawn area: 96%
+[20:01:11] [Server-Worker-1/INFO]: Preparing spawn area: 96%
+[20:01:11] [Server thread/INFO]: Preparing spawn area: 97%
+[20:01:12] [Server-Worker-2/INFO]: Preparing spawn area: 99%
+[20:01:12] [Server thread/INFO]: Time elapsed: 14109 ms
+[20:01:12] [Server thread/INFO]: Done (31.574s)! For help, type "help"
+[20:02:49] [Server thread/INFO]: sanes[/25.123.151.119:47340] logged in with entity id 71 at (303.34546537801054, 63.0, -13.995704470962039)
+[20:02:49] [Server thread/INFO]: sanes joined the game
+[20:02:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[20:22:07] [Server thread/INFO]: sanes lost connection: Disconnected
+[20:22:07] [Server thread/INFO]: sanes left the game
+[20:38:45] [Server thread/INFO]: sanes[/25.123.151.119:47406] logged in with entity id 1704 at (305.154418014439, 17.0, -16.361162801857382)
+[20:38:45] [Server thread/INFO]: sanes joined the game
+[20:39:50] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[20:39:50] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[20:40:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[20:41:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8849ms or 176 ticks behind
+[20:44:19] [Server thread/INFO]: [sanes: Teleported sanes to -1531.5, 36.0, 509.5]
+[20:44:23] [Server thread/WARN]: sanes moved too quickly! 1635.150280031994,12.945106652967922,-509.4892667332042
+[20:47:19] [Server thread/INFO]: sanes fell out of the world
+[20:47:42] [Server thread/INFO]: sanes lost connection: Disconnected
+[20:47:42] [Server thread/INFO]: sanes left the game
+[20:48:59] [Server thread/INFO]: jenja[/25.123.151.119:47440] logged in with entity id 3525 at (-373.76022925956755, 71.0, 1237.309100527489)
+[20:48:59] [Server thread/INFO]: jenja joined the game
+[21:01:01] [Server thread/INFO]: Teleported jenja to -1531.5, 36.0, 509.5
+[21:01:01] [Server thread/WARN]: jenja moved too quickly! -1157.262499988079,-35.0,-727.8750354286462
+[21:01:01] [Server thread/INFO]: jenja has made the advancement [Eye Spy]
+[21:01:11] [Server thread/INFO]: jenja has made the advancement [The End?]
+[21:01:12] [Server thread/WARN]: jenja moved too quickly! 1634.5743388151984,12.945106652967922,-509.4807545540967
+[21:06:01] [Server thread/INFO]: jenja has reached the goal [The Next Generation]
+[21:08:25] [Server thread/INFO]: Teleported jenja to -1531.5, 36.0, 509.5
+[21:08:25] [Server thread/WARN]: jenja moved too quickly! -1156.7672561282056,-35.5625,-725.1824387873369
+[21:08:25] [Server thread/WARN]: jenja moved too quickly! -1156.7672561282056,-35.5625,-725.1824387873369
+[21:08:25] [Server thread/WARN]: jenja moved too quickly! -1156.7672561282056,-35.5625,-725.1824387873369
+[21:08:29] [Server thread/WARN]: jenja moved too quickly! 1635.3979708109634,13.392604549951344,-509.2491107651463
+[21:08:30] [Server thread/WARN]: jenja moved too quickly! 1635.3979708109634,13.392604549951344,-509.2491107651463
+[21:22:26] [Server thread/INFO]: jenja lost connection: Disconnected
+[21:22:26] [Server thread/INFO]: jenja left the game
+[21:24:18] [Server thread/INFO]: sanes[/25.123.151.119:47510] logged in with entity id 8492 at (-375.4930855581396, 71.0, 1236.7913085785658)
+[21:24:18] [Server thread/INFO]: sanes joined the game
+[21:24:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[21:24:52] [Server thread/INFO]: [sanes: Set own game mode to Creative Mode]
+[21:25:05] [Server thread/INFO]: [sanes: Set own game mode to Survival Mode]
+[21:26:41] [Server thread/INFO]: [sanes: Teleported sanes to -1531.5, 36.0, 509.5]
+[21:26:41] [Server thread/WARN]: sanes moved too quickly! -1156.9160050140792,-35.0,-727.9004094518084
+[21:26:44] [Server thread/WARN]: sanes moved too quickly! 1634.9637283583631,12.945106652967922,-509.50376248440426
+[22:05:03] [Server thread/INFO]: [sanes: Teleported sanes to -1531.5, 36.0, 509.5]
+[22:05:03] [Server thread/WARN]: sanes moved too quickly! -1155.5846192845765,-35.0,-726.5385351536752
+[22:05:03] [Server thread/WARN]: sanes moved too quickly! -1155.5846192845765,-35.0,-726.5385351536752
+[22:05:03] [Server thread/WARN]: sanes moved too quickly! -1155.5846192845765,-35.0,-726.5385351536752
+[22:05:03] [Server thread/WARN]: sanes moved too quickly! -1155.5846192845765,-35.0,-726.5385351536752
+[22:05:10] [Server thread/WARN]: sanes moved too quickly! 1634.8398692182097,12.945106652967922,-509.6765981362252
+[22:21:37] [Server thread/INFO]: [sanes: Set own game mode to Spectator Mode]
+[22:22:21] [Server thread/INFO]: [sanes: Set own game mode to Survival Mode]
+[22:22:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[22:38:29] [Server thread/INFO]: [sanes: Teleported sanes to -1531.5, 36.0, 509.5]
+[22:38:29] [Server thread/WARN]: sanes moved too quickly! -1154.496849144787,-35.0,-724.6961105924904
+[22:38:29] [Server thread/WARN]: sanes moved too quickly! -1154.496849144787,-35.0,-724.6961105924904
+[22:38:29] [Server thread/WARN]: sanes moved too quickly! -1154.496849144787,-35.0,-724.6961105924904
+[22:38:29] [Server thread/WARN]: sanes moved too quickly! -1154.496849144787,-35.0,-724.6961105924904
+[22:38:46] [Server thread/INFO]: sanes lost connection: Disconnected
+[22:38:46] [Server thread/INFO]: sanes left the game
+[22:38:53] [Server thread/INFO]: Stopping the server
+[22:38:53] [Server thread/INFO]: Stopping server
+[22:38:53] [Server thread/INFO]: Saving players
+[22:38:53] [Server thread/INFO]: Saving worlds
+[22:38:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[22:38:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:38:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[22:38:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:38:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[22:38:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:38:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:38:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:38:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
