@@ -1,120 +1,417 @@
-[20:00:37] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:00:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:00:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:00:37] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:00:37] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:00:39] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[20:00:39] [Server thread/INFO]: Loading properties
-[20:00:39] [Server thread/INFO]: Default game type: SURVIVAL
-[20:00:39] [Server thread/INFO]: Generating keypair
-[20:00:40] [Server thread/INFO]: Starting Minecraft server on 25.123.151.119:25565
-[20:00:40] [Server thread/INFO]: Using epoll channel type
-[20:00:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:00:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:00:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:00:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:00:40] [Server thread/INFO]: Preparing level "world"
-[20:00:41] [Server thread/INFO]: Reloading ResourceManager: Default
-[20:00:42] [Server thread/INFO]: Loaded 6 recipes
-[20:00:43] [Server thread/INFO]: Loaded 825 advancements
-[20:00:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:01:01] [Server thread/INFO]: Preparing spawn area: 0%
-[20:01:01] [Server thread/INFO]: Preparing spawn area: 0%
-[20:01:01] [Server thread/INFO]: Preparing spawn area: 0%
-[20:01:01] [Server thread/INFO]: Preparing spawn area: 0%
-[20:01:01] [Server thread/INFO]: Preparing spawn area: 0%
-[20:01:01] [Server thread/INFO]: Preparing spawn area: 0%
-[20:01:01] [Server thread/INFO]: Preparing spawn area: 0%
-[20:01:01] [Server thread/INFO]: Preparing spawn area: 60%
-[20:01:06] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[20:01:06] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[20:01:06] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[20:01:06] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[20:01:06] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[20:01:06] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[20:01:06] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[20:01:06] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[20:01:06] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[20:01:06] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[20:01:07] [Server thread/INFO]: Preparing spawn area: 83%
-[20:01:07] [Server thread/INFO]: Preparing spawn area: 83%
-[20:01:08] [Server-Worker-1/INFO]: Preparing spawn area: 96%
-[20:01:08] [Server-Worker-3/INFO]: Preparing spawn area: 96%
-[20:01:11] [Server-Worker-3/INFO]: Preparing spawn area: 96%
-[20:01:11] [Server-Worker-3/INFO]: Preparing spawn area: 96%
-[20:01:11] [Server thread/INFO]: Preparing spawn area: 96%
-[20:01:11] [Server thread/INFO]: Preparing spawn area: 96%
-[20:01:11] [Server-Worker-1/INFO]: Preparing spawn area: 96%
-[20:01:11] [Server thread/INFO]: Preparing spawn area: 97%
-[20:01:12] [Server-Worker-2/INFO]: Preparing spawn area: 99%
-[20:01:12] [Server thread/INFO]: Time elapsed: 14109 ms
-[20:01:12] [Server thread/INFO]: Done (31.574s)! For help, type "help"
-[20:02:49] [Server thread/INFO]: sanes[/25.123.151.119:47340] logged in with entity id 71 at (303.34546537801054, 63.0, -13.995704470962039)
-[20:02:49] [Server thread/INFO]: sanes joined the game
-[20:02:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[20:22:07] [Server thread/INFO]: sanes lost connection: Disconnected
-[20:22:07] [Server thread/INFO]: sanes left the game
-[20:38:45] [Server thread/INFO]: sanes[/25.123.151.119:47406] logged in with entity id 1704 at (305.154418014439, 17.0, -16.361162801857382)
-[20:38:45] [Server thread/INFO]: sanes joined the game
-[20:39:50] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[20:39:50] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[20:40:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
-[20:41:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8849ms or 176 ticks behind
-[20:44:19] [Server thread/INFO]: [sanes: Teleported sanes to -1531.5, 36.0, 509.5]
-[20:44:23] [Server thread/WARN]: sanes moved too quickly! 1635.150280031994,12.945106652967922,-509.4892667332042
-[20:47:19] [Server thread/INFO]: sanes fell out of the world
-[20:47:42] [Server thread/INFO]: sanes lost connection: Disconnected
-[20:47:42] [Server thread/INFO]: sanes left the game
-[20:48:59] [Server thread/INFO]: jenja[/25.123.151.119:47440] logged in with entity id 3525 at (-373.76022925956755, 71.0, 1237.309100527489)
-[20:48:59] [Server thread/INFO]: jenja joined the game
-[21:01:01] [Server thread/INFO]: Teleported jenja to -1531.5, 36.0, 509.5
-[21:01:01] [Server thread/WARN]: jenja moved too quickly! -1157.262499988079,-35.0,-727.8750354286462
-[21:01:01] [Server thread/INFO]: jenja has made the advancement [Eye Spy]
-[21:01:11] [Server thread/INFO]: jenja has made the advancement [The End?]
-[21:01:12] [Server thread/WARN]: jenja moved too quickly! 1634.5743388151984,12.945106652967922,-509.4807545540967
-[21:06:01] [Server thread/INFO]: jenja has reached the goal [The Next Generation]
-[21:08:25] [Server thread/INFO]: Teleported jenja to -1531.5, 36.0, 509.5
-[21:08:25] [Server thread/WARN]: jenja moved too quickly! -1156.7672561282056,-35.5625,-725.1824387873369
-[21:08:25] [Server thread/WARN]: jenja moved too quickly! -1156.7672561282056,-35.5625,-725.1824387873369
-[21:08:25] [Server thread/WARN]: jenja moved too quickly! -1156.7672561282056,-35.5625,-725.1824387873369
-[21:08:29] [Server thread/WARN]: jenja moved too quickly! 1635.3979708109634,13.392604549951344,-509.2491107651463
-[21:08:30] [Server thread/WARN]: jenja moved too quickly! 1635.3979708109634,13.392604549951344,-509.2491107651463
-[21:22:26] [Server thread/INFO]: jenja lost connection: Disconnected
-[21:22:26] [Server thread/INFO]: jenja left the game
-[21:24:18] [Server thread/INFO]: sanes[/25.123.151.119:47510] logged in with entity id 8492 at (-375.4930855581396, 71.0, 1236.7913085785658)
-[21:24:18] [Server thread/INFO]: sanes joined the game
-[21:24:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[21:24:52] [Server thread/INFO]: [sanes: Set own game mode to Creative Mode]
-[21:25:05] [Server thread/INFO]: [sanes: Set own game mode to Survival Mode]
-[21:26:41] [Server thread/INFO]: [sanes: Teleported sanes to -1531.5, 36.0, 509.5]
-[21:26:41] [Server thread/WARN]: sanes moved too quickly! -1156.9160050140792,-35.0,-727.9004094518084
-[21:26:44] [Server thread/WARN]: sanes moved too quickly! 1634.9637283583631,12.945106652967922,-509.50376248440426
-[22:05:03] [Server thread/INFO]: [sanes: Teleported sanes to -1531.5, 36.0, 509.5]
-[22:05:03] [Server thread/WARN]: sanes moved too quickly! -1155.5846192845765,-35.0,-726.5385351536752
-[22:05:03] [Server thread/WARN]: sanes moved too quickly! -1155.5846192845765,-35.0,-726.5385351536752
-[22:05:03] [Server thread/WARN]: sanes moved too quickly! -1155.5846192845765,-35.0,-726.5385351536752
-[22:05:03] [Server thread/WARN]: sanes moved too quickly! -1155.5846192845765,-35.0,-726.5385351536752
-[22:05:10] [Server thread/WARN]: sanes moved too quickly! 1634.8398692182097,12.945106652967922,-509.6765981362252
-[22:21:37] [Server thread/INFO]: [sanes: Set own game mode to Spectator Mode]
-[22:22:21] [Server thread/INFO]: [sanes: Set own game mode to Survival Mode]
-[22:22:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
-[22:38:29] [Server thread/INFO]: [sanes: Teleported sanes to -1531.5, 36.0, 509.5]
-[22:38:29] [Server thread/WARN]: sanes moved too quickly! -1154.496849144787,-35.0,-724.6961105924904
-[22:38:29] [Server thread/WARN]: sanes moved too quickly! -1154.496849144787,-35.0,-724.6961105924904
-[22:38:29] [Server thread/WARN]: sanes moved too quickly! -1154.496849144787,-35.0,-724.6961105924904
-[22:38:29] [Server thread/WARN]: sanes moved too quickly! -1154.496849144787,-35.0,-724.6961105924904
-[22:38:46] [Server thread/INFO]: sanes lost connection: Disconnected
-[22:38:46] [Server thread/INFO]: sanes left the game
-[22:38:53] [Server thread/INFO]: Stopping the server
-[22:38:53] [Server thread/INFO]: Stopping server
-[22:38:53] [Server thread/INFO]: Saving players
-[22:38:53] [Server thread/INFO]: Saving worlds
-[22:38:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[22:38:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:38:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[22:38:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:38:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[22:38:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:38:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:38:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:38:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:51:21] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:51:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:51:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:51:21] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:51:21] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:51:24] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[17:51:24] [Server thread/INFO]: Loading properties
+[17:51:24] [Server thread/INFO]: Default game type: SURVIVAL
+[17:51:24] [Server thread/INFO]: Generating keypair
+[17:51:25] [Server thread/INFO]: Starting Minecraft server on 25.123.151.119:25565
+[17:51:25] [Server thread/INFO]: Using epoll channel type
+[17:51:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:51:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:51:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:51:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:51:26] [Server thread/INFO]: Preparing level "world"
+[17:51:26] [Server thread/INFO]: Reloading ResourceManager: Default
+[17:51:27] [Server thread/INFO]: Loaded 6 recipes
+[17:51:29] [Server thread/INFO]: Loaded 825 advancements
+[17:51:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:51:47] [Server thread/INFO]: Preparing spawn area: 0%
+[17:51:47] [Server thread/INFO]: Preparing spawn area: 0%
+[17:51:47] [Server thread/INFO]: Preparing spawn area: 0%
+[17:51:47] [Server thread/INFO]: Preparing spawn area: 0%
+[17:51:47] [Server thread/INFO]: Preparing spawn area: 0%
+[17:51:47] [Server thread/INFO]: Preparing spawn area: 0%
+[17:51:47] [Server thread/INFO]: Preparing spawn area: 0%
+[17:51:47] [Server thread/INFO]: Preparing spawn area: 0%
+[17:51:47] [Server thread/INFO]: Preparing spawn area: 0%
+[17:51:52] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[17:51:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[17:51:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[17:51:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[17:51:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[17:51:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[17:51:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[17:51:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[17:51:52] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[17:51:52] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[17:51:53] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[17:51:53] [Server-Worker-1/INFO]: Preparing spawn area: 96%
+[17:51:54] [Server-Worker-2/INFO]: Preparing spawn area: 96%
+[17:51:55] [Server thread/INFO]: Preparing spawn area: 96%
+[17:51:55] [Server-Worker-2/INFO]: Preparing spawn area: 96%
+[17:51:55] [Server-Worker-3/INFO]: Preparing spawn area: 97%
+[17:51:56] [Server thread/INFO]: Preparing spawn area: 99%
+[17:51:56] [Server thread/INFO]: Time elapsed: 12558 ms
+[17:51:56] [Server thread/INFO]: Done (30.202s)! For help, type "help"
+[17:51:57] [Server thread/INFO]: jenja[/25.119.68.4:49807] logged in with entity id 71 at (-516.1594769571984, 71.17675927506424, 1262.7895775121963)
+[17:51:57] [Server thread/INFO]: jenja joined the game
+[17:52:28] [Server thread/INFO]: keypopsh[/25.130.0.43:52320] logged in with entity id 473 at (-374.74345245982295, 71.0, 1237.1952658393088)
+[17:52:28] [Server thread/INFO]: keypopsh joined the game
+[17:52:50] [Server thread/INFO]: sanes[/25.123.151.119:37652] logged in with entity id 686 at (303.82611399832405, 17.0, -14.6632064445673)
+[17:52:50] [Server thread/INFO]: sanes joined the game
+[17:52:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[17:52:58] [Server thread/INFO]: keypopsh lost connection: Disconnected
+[17:52:58] [Server thread/INFO]: keypopsh left the game
+[17:53:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11026ms or 220 ticks behind
+[17:53:22] [Server thread/INFO]: keypopsh[/25.130.0.43:52338] logged in with entity id 827 at (-374.74345245982295, 71.0, 1237.1952658393088)
+[17:53:22] [Server thread/INFO]: keypopsh joined the game
+[17:53:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8060ms or 161 ticks behind
+[17:53:52] [Server thread/INFO]: keypopsh lost connection: Disconnected
+[17:53:52] [Server thread/INFO]: keypopsh left the game
+[17:54:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4849ms or 96 ticks behind
+[17:54:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4036ms or 80 ticks behind
+[17:54:30] [Server thread/INFO]: keypopsh[/25.130.0.43:52446] logged in with entity id 958 at (-374.74345245982295, 71.0, 1237.1952658393088)
+[17:54:30] [Server thread/INFO]: keypopsh joined the game
+[17:54:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5433ms or 108 ticks behind
+[17:55:00] [Server thread/INFO]: keypopsh lost connection: Disconnected
+[17:55:00] [Server thread/INFO]: keypopsh left the game
+[17:55:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4961ms or 99 ticks behind
+[17:55:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3919ms or 78 ticks behind
+[17:55:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3504ms or 70 ticks behind
+[17:55:53] [Server thread/INFO]: keypopsh[/25.130.0.43:52504] logged in with entity id 1078 at (-374.74345245982295, 71.0, 1237.1952658393088)
+[17:55:53] [Server thread/INFO]: keypopsh joined the game
+[17:55:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4147ms or 82 ticks behind
+[17:56:11] [Server thread/INFO]: keypopsh lost connection: Disconnected
+[17:56:11] [Server thread/INFO]: keypopsh left the game
+[17:56:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3783ms or 75 ticks behind
+[17:56:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2827ms or 56 ticks behind
+[17:56:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3276ms or 65 ticks behind
+[17:57:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3491ms or 69 ticks behind
+[17:57:12] [Server thread/INFO]: <jenja> в эндер честе нет ничего
+[17:57:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3596ms or 71 ticks behind
+[17:57:36] [Server thread/INFO]: <sanes> а ты туда что-то клал?
+[17:57:44] [Server thread/INFO]: <sanes> там твои вещи только
+[17:57:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3056ms or 61 ticks behind
+[17:57:47] [Server thread/INFO]: <jenja> ничего
+[17:57:55] [Server thread/INFO]: <sanes> смори
+[17:57:56] [Server thread/INFO]: <jenja> всм
+[17:57:59] [Server thread/INFO]: <sanes> щас я положу
+[17:58:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2984ms or 59 ticks behind
+[17:58:14] [Server thread/INFO]: <sanes> вот
+[17:58:16] [Server thread/INFO]: <sanes> положил
+[17:58:24] [Server thread/INFO]: <jenja> нету
+[17:58:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7000ms or 140 ticks behind
+[17:58:33] [Server thread/INFO]: keypopsh[/25.130.0.43:52770] logged in with entity id 1274 at (-374.74345245982295, 71.0, 1237.1952658393088)
+[17:58:33] [Server thread/INFO]: keypopsh joined the game
+[17:58:34] [Server thread/INFO]: <sanes> правильно все
+[17:58:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4337ms or 86 ticks behind
+[17:59:03] [Server thread/INFO]: <jenja> коровы есть
+[17:59:04] [Server thread/INFO]: keypopsh lost connection: Disconnected
+[17:59:04] [Server thread/INFO]: keypopsh left the game
+[17:59:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4668ms or 93 ticks behind
+[17:59:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3536ms or 70 ticks behind
+[17:59:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2976ms or 59 ticks behind
+[18:00:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3324ms or 66 ticks behind
+[18:00:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3190ms or 63 ticks behind
+[18:00:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3292ms or 65 ticks behind
+[18:00:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3182ms or 63 ticks behind
+[18:01:03] [Server thread/INFO]: <jenja> расширил дом
+[18:01:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3199ms or 63 ticks behind
+[18:01:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3388ms or 67 ticks behind
+[18:01:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2531ms or 50 ticks behind
+[18:01:54] [Server thread/INFO]: <jenja> почему вещей нет в сундуке?
+[18:02:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3423ms or 68 ticks behind
+[18:02:11] [Server thread/INFO]: sanes lost connection: Disconnected
+[18:02:11] [Server thread/INFO]: sanes left the game
+[18:03:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2346ms or 46 ticks behind
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 1.8658785697560347,0.0,10.238986120675463
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 2.232055208787415,0.0,10.631477619661837
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 2.6001531377165747,0.0,11.022478761515686
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 2.9686359414111507,0.0,11.413292095749966
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 3.337324683919121,0.0,11.804004937871468
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 3.705652931615248,0.0,12.195107434459487
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 4.072492358547549,0.0,12.587627503795602
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 4.437725259690126,0.0,12.981653037386423
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 4.801939699156662,0.0,13.376629838943927
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 5.165114206659609,-0.07683200149536162,13.772568123665224
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 5.3762051145056375,-0.2274534586630068,14.002945801515807
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 5.581105505635776,-0.4489423104376016,14.2270181384215
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 5.780435141075088,-0.7384922093173572,14.445512003548401
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 5.974796776446169,-1.093407939109099,14.659030987399547
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 6.116054439378843,-1.5111010141305457,14.868113372001062
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 6.116054439378843,-1.9890854526840371,15.073239197277871
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 6.116054439378843,-2.5249737179006644,15.274836562847213
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 6.116054439378843,-3.0,15.473747710391535
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 6.116054439378843,-3.0,15.863330845352493
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 6.116054439378843,-3.0,16.315189497237725
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 6.116054439378843,-3.0,16.806538712796737
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 6.116054439378843,-3.0,17.319235139955254
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 6.116054439378843,-3.0,17.843356654984746
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 6.116054439378843,-3.0,18.37359150674206
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 6.116054439378843,-3.0,18.907097483095868
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 6.116054439378843,-3.0,19.44235377300197
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 6.116054439378843,-3.0,19.978546620792486
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 6.119407307653319,-3.0,20.515235152457308
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 6.139933050354443,-3.0,21.051365075685908
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 6.232497169661144,-3.0,21.574338075866763
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 6.41587388136702,-2.0,22.0650783016913
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 6.671095914132934,-2.0,22.521870083362728
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 6.966467913948009,-2.0,22.959103335232157
+[18:07:58] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! 7.283323360627094,-2.0,23.385871207759465
+[18:08:27] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! -4.143023663557074,-2.247742037649431,-9.252588727270222
+[18:08:27] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! -4.482677533564129,-2.247742037649431,-9.660280186731143
+[18:08:27] [Server thread/WARN]: Horse (vehicle of jenja) moved too quickly! -4.748441089322398,-2.247742037649431,-10.113678787372692
+[18:08:27] [Server thread/WARN]: Horse moved wrongly!
+[18:08:27] [Server thread/WARN]: Horse moved wrongly!
+[18:08:27] [Server thread/WARN]: Horse moved wrongly!
+[18:08:27] [Server thread/WARN]: Horse moved wrongly!
+[18:08:27] [Server thread/WARN]: Horse moved wrongly!
+[18:08:27] [Server thread/WARN]: Horse moved wrongly!
+[18:08:27] [Server thread/WARN]: Horse moved wrongly!
+[18:08:27] [Server thread/WARN]: Horse moved wrongly!
+[18:08:27] [Server thread/WARN]: Horse moved wrongly!
+[18:08:27] [Server thread/WARN]: Horse moved wrongly!
+[18:08:27] [Server thread/WARN]: Horse moved wrongly!
+[18:11:52] [Server thread/WARN]: jenja moved too quickly! 8.31900786733695,1.0013359791121417,5.8851973878315675
+[18:12:57] [Server thread/WARN]: jenja moved too quickly! 10.028381562106688,0.0,-1.1697129539902562
+[18:13:35] [Server thread/WARN]: jenja moved too quickly! 0.5163121144021545,2.1661092609382138,-9.791482151441983
+[18:14:05] [Server thread/WARN]: jenja moved too quickly! 3.702530385931297,0.0,-9.65183018316202
+[18:15:01] [Server thread/INFO]: jenja has made the advancement [Voluntary Exile]
+[18:15:11] [Server thread/WARN]: jenja moved too quickly! 2.7983667963566177,-1.127890238205481,9.802201778680569
+[18:15:14] [Server thread/WARN]: jenja moved too quickly! -3.453333586296985,-0.3739040364667261,9.408687977701334
+[18:15:47] [Server thread/WARN]: jenja moved too quickly! 10.210315322026801,-0.604424101326714,1.8242017259883596
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 10.37266542856446,0.0,0.05805087070393711
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 10.771331794516357,0.0,0.062294795887396504
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 11.16984000950822,0.0,0.07093462406089657
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 11.568149323831904,0.0,0.08397587181866584
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 11.966224068579436,0.0,0.10138108607748109
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 12.364134114105866,0.0,0.12237960211302834
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 12.762016558962387,0.0,0.1456223512757333
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 13.160016014820656,0.0,0.16929214649985624
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 13.558193889399774,0.0,0.1919101130948775
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 13.95655395868306,0.0,0.21228929219967085
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 14.355061686424222,0.0,0.2294878927522177
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 14.753658705976306,0.0,0.24277796890976333
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 15.152273369168597,0.0,0.25160908431462303
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 15.55082826589188,0.0,0.2555791591921661
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 15.949246239216166,0.0,0.2544156954271557
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 16.347453850669808,0.0,0.24795115148390323
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 16.74538321749077,0.0,0.23610077541161445
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 17.14308331634726,0.0,0.2195434584883742
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 17.540690110524736,0.0,0.19956660986144925
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 17.938370066963444,0.0,0.1779454584227551
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 18.336212957951204,0.0,0.15613695027150243
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 18.734253995892914,0.0,0.13532446662213715
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 19.132490696138916,0.0,0.11645900876590076
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 19.53089545327765,0.0,0.10029305100704278
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 19.929425261649214,0.0,0.08740374663659622
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 20.32802844097455,0.0,0.07822940778135035
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 20.72664984378082,0.0,0.07308716283523609
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 21.125293544854003,0.0,0.07149733025039495
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 21.52400845515217,0.0,0.07233555365291977
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 21.922820660988805,0.0,0.07466954402207193
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 22.32174014704401,0.0,0.07772878142247919
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 22.7207656847836,0.0,0.08088092339596642
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 23.119888516780634,0.0,0.08361047257994869
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 23.51909513616266,0.0,0.08550718207493446
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 23.918369318727798,0.0,0.0862440729086984
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 24.31769381028812,0.0,0.08557295900993722
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 24.71705106296747,0.0,0.08330123601854211
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 15.142537731942184,0.0,0.02115299864726694
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 15.541911468882233,0.0,0.015315683023004567
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 15.941271363854298,0.0,0.007590131267193101
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 16.34060469710647,0.0,-0.0020529694309061597
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 16.73990049397412,0.0,-0.013616970855537147
+[18:17:31] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 17.139149689372744,0.0,-0.027081878727244657
+[18:17:45] [Server thread/WARN]: jenja moved wrongly!
+[18:18:07] [Server thread/WARN]: jenja moved too quickly! 10.171119692417278,0.023088109101550458,0.5736369130833054
+[18:21:27] [Server thread/WARN]: jenja moved too quickly! 5.415998275218499,-1.1661092609382138,8.357138453683092
+[18:21:27] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=1087, y=66, z=529} fk{x=1102, y=71, z=546}
+[18:21:27] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=1087, y=66, z=529} fk{x=1102, y=72, z=546}
+[18:21:27] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=1087, y=66, z=529} fk{x=1102, y=73, z=546}
+[18:21:27] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=1102, y=72, z=546} fk{x=1102, y=73, z=546}
+[18:22:34] [Server thread/WARN]: jenja moved too quickly! 9.455578373469507,-2.054764522522774,3.5049397808483036
+[18:22:38] [Server thread/WARN]: jenja was kicked for floating too long!
+[18:22:38] [Server thread/INFO]: jenja lost connection: Flying is not enabled on this server
+[18:22:38] [Server thread/INFO]: jenja left the game
+[18:22:46] [Server thread/INFO]: jenja[/25.119.68.4:49825] logged in with entity id 8320 at (1387.5423744969, 65.17380333872785, 617.4960829484604)
+[18:22:47] [Server thread/INFO]: jenja joined the game
+[18:26:30] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 4.331116803598434,0.0,9.246967570711945
+[18:26:30] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 4.421123104425533,0.0,9.632833831289304
+[18:26:30] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 4.507595590436722,0.0,10.019737592550428
+[18:26:30] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 4.59076225039189,0.0,10.407592218385844
+[18:26:30] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 4.6701545111814085,0.0,10.796402195599853
+[18:26:30] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 4.745425171438455,0.0,11.186148201020728
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 1.1415564808680756,0.0,10.238855117684352
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 1.1349005519682578,0.0,10.637052948569135
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 1.1239833418144372,0.0,11.035126398792158
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 1.1087594244031607,0.0,11.43302653226499
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 1.0892342053921311,0.0,11.830710427821487
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 1.0654548910570156,0.0,12.228141464344503
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 1.0375061610798184,0.0,12.625289901480528
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 1.0054949375344222,0.0,13.022131308669032
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 0.9695518333169275,0.0,13.41864742742166
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 0.9298211308509963,0.0,13.814824864936213
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 0.8864555687737266,0.0,14.21065437656
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 0.8396191899373662,0.0,14.606131590913378
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 0.789474864220665,0.0,15.001254626389937
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 0.7361918764299844,0.0,15.396025622867569
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 0.6799377271227058,0.0,15.790449024532563
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 0.6208782775056534,0.0,16.184531520812016
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 0.5591741349940094,0.0,16.578281155022864
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 0.49498490388123173,0.0,16.97170811658009
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 0.4284617736029759,0.0,17.364822976666005
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 0.3597520892385546,0.0,17.757637547848617
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 0.2889997191832663,0.0,18.150164838174078
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 0.21633791591466434,0.0,18.542417277589834
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 0.1418941056690528,0.0,18.934407654923234
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 0.06579046547676626,0.0,19.326149122971515
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -0.01185929303892408,0.0,19.717654316464063
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -0.08174407385149607,0.0,19.93347726154593
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -0.1446403749168894,0.0,19.93347726154593
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -1.3453087072239214,0.0,10.09288960944582
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -1.3962547083874597,0.0,10.09288960944582
+[18:26:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -1.442106108219832,0.0,10.09288960944582
+[18:26:33] [Server thread/WARN]: jenja moved wrongly!
+[18:27:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7773ms or 155 ticks behind
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 7.962694786454904,0.0,-6.209808654753942
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 8.186366747734155,0.0,-6.384315262396058
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 8.387671507552568,0.0,-6.541371205113364
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 8.568845786589918,0.0,-6.68272154981446
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 8.731902633403934,0.0,-6.809936856675449
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 8.878653791648958,0.0,-6.924430629817266
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 9.010729830570654,0.0,-7.027475022915155
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 9.129598262451054,0.0,-7.120214974246437
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 9.236579848309702,0.0,-7.2036809282335525
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 9.332863273031762,0.0,-7.278800284831959
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 9.41951835298596,0.0,-7.34640770397948
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 9.497507922878867,0.0,-7.407254379600431
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 9.567698533922794,0.0,-7.462016386208575
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 9.630870082189176,0.0,-7.5113021908503015
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 9.68772447412266,0.0,-7.555659413852709
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 9.738893425507285,0.0,-7.595580913497315
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 9.784945480533224,0.0,-7.6315102622256745
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 9.826392328958718,0.0,-7.66384667522459
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 9.86369449155336,0.0,-7.692949446152625
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 9.897266436999416,0.0,-7.719141939293991
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 9.959017404879432,0.0,-7.767321421547422
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 10.046129492277942,0.0,-7.835289193477479
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 10.156064224804595,0.0,-7.921069448717731
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 10.286539337402246,0.0,-8.022880938512458
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 10.435500791574214,0.0,-8.13912053902402
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 10.601099952722507,0.0,-8.268345438836832
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 10.781673049752499,0.0,-8.409257107711028
+[18:28:49] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 10.975722688719088,0.0,-8.560686868461971
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 8.199414666907614,0.0,-6.397620627290337
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 8.514776769503897,0.0,-6.64368295912692
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 8.830138872100633,0.0,-6.889745290963845
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 9.145500974697825,0.0,-7.135807622801167
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 9.460863077295016,0.0,-7.381869954638773
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 9.776225179892663,0.0,-7.627932286476664
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 10.091587282490764,0.0,-7.873994618314839
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 10.40694938508932,0.0,-8.120056950153241
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 10.722311487687875,0.0,-8.366119281991814
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 11.037673590286886,0.0,-8.612181613830558
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 11.353035692885896,0.0,-8.858243945669471
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 11.668397795485362,0.0,-9.104306277508556
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 11.983759898084827,0.0,-9.350368609347754
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 12.299122000684292,0.0,-9.596430941187123
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 12.614484103284212,0.0,-9.842493273026548
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 12.929846205884132,0.0,-10.088555604866087
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 13.245208308484052,0.0,-10.33461793670574
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 13.560570411083972,0.0,-10.58068026854545
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 13.875932513684347,0.0,-10.826742600385217
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 14.191294616284722,0.0,-11.072804932225097
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 14.506656718885097,0.0,-11.318867264065034
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 14.822018821485472,0.0,-11.564929595904971
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 15.137380924085846,0.0,-11.810991927744965
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 15.452743026686221,0.0,-12.057054259585016
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 15.768105129286596,0.0,-12.303116591425123
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 16.051931014108504,0.0,-12.524572684214604
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 16.307374303681172,0.0,-12.723883162445247
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 16.53727325820637,0.0,-12.903262588100858
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 16.744182311797886,0.0,-13.064704066914203
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 16.930400455097242,0.0,-13.210001393997118
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 17.097996779626556,0.0,-13.340768984907584
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 17.2488334677073,0.0,-13.458459813609295
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 17.384586483383828,0.0,-13.564381556634828
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 17.506764194255993,0.0,-13.659711122832448
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 17.616724131128194,0.0,-13.74550773013749
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 17.715688071691147,0.0,-13.82272467466646
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 17.80475561583853,0.0,-13.892219922901518
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 17.884916403447733,0.0,-13.95476564465622
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 17.95706111038453,0.0,-14.011056792744228
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 18.021991344907747,0.0,-14.06171882468135
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 10.196375990118213,0.0,-7.955756356762663
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 10.248969477295304,0.0,-7.996792600457525
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 10.296303614501085,0.0,-8.033725218804534
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 10.338904336857468,0.0,-8.066964574436327
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 10.377244985962534,0.0,-8.096879993712434
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 10.411751569243279,0.0,-8.123803870347672
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 10.442807493373039,0.0,-8.148035358677475
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 10.47075782434922,0.0,-8.169843697596605
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 10.495913121561443,0.0,-8.189471202103846
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 10.518552888452632,0.0,-8.207135955692422
+[18:29:25] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 10.538928678115099,0.0,-8.223034233500982
+[18:30:30] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 9.512232625275374,0.0,-3.4612517990034917
+[18:30:30] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 9.87877201812671,0.0,-3.5946258640674955
+[18:30:30] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 10.246246331244038,0.0,-3.7283401220790324
+[18:30:30] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 10.614562072578792,0.0,-3.8623605537352432
+[18:30:30] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 10.983635099288676,0.0,-3.996656541664379
+[18:30:30] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 11.353389682818488,0.0,-4.131200530232604
+[18:30:30] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 11.723513295876728,0.0,-4.266621492916272
+[18:30:30] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 12.093473173286384,0.0,-4.404062424773883
+[18:30:30] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 12.462507602132519,0.0,-4.545048438614799
+[18:30:30] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 12.829940707938022,0.0,-4.69074435041415
+[18:30:30] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 13.195187475579132,0.0,-4.8420155157128875
+[18:30:30] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 13.557750806349304,0.0,-4.999484893919146
+[18:30:30] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 13.917220392965191,0.0,-5.163573422159402
+[18:30:30] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 14.27326878644044,0.0,-5.3345355731582345
+[18:30:30] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 14.625643076727556,0.0,-5.512493566426258
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -16.181414379505895,0.0,9.049226699025581
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -16.181414379505895,0.0,9.049226699025581
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -16.181414379505895,0.0,9.049226699025581
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -16.181414379505895,0.0,9.049226699025581
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -16.181414379505895,0.0,9.049226699025581
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -16.181414379505895,0.0,9.049226699025581
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -16.181414379505895,0.0,9.049226699025581
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -16.181414379505895,0.0,9.049226699025581
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -16.181414379505895,0.0,9.049226699025581
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -16.181414379505895,0.0,9.049226699025581
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -16.181414379505895,0.0,9.049226699025581
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -16.181414379505895,0.0,9.049226699025581
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -16.181414379505895,0.0,9.049226699025581
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -16.181414379505895,0.0,9.049226699025581
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -16.181414379505895,0.0,9.049226699025581
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -15.83754524325559,0.0,8.847146368149453
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -15.490449305401853,0.0,8.651664967595167
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -15.140438822819306,0.0,8.462151457477859
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -14.787796141715717,0.0,8.278034302354484
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -14.432775392298026,0.0,8.098799125927854
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -14.075607903173932,0.0,7.92397577551813
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -13.716500581135278,0.0,7.75314472818755
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -13.355640946141193,0.0,7.585924806289796
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -12.993199066276702,0.0,7.421969342008623
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -12.629328006539254,0.0,7.260966336180303
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -12.264166821824347,0.0,7.10263137882734
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -11.897840661534246,0.0,6.946708502839357
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -11.530462163853826,0.0,6.792967338754494
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -11.162132706871489,0.0,6.641200554993844
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -10.792944819815148,0.0,6.491217939609811
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -10.422981778987378,0.0,6.342848303716664
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -10.052318533058951,0.0,6.195937576390037
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -9.681022535831744,0.0,6.050347095664364
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -9.309155784676477,0.0,5.905948451310934
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -8.936774069773946,0.0,5.762626074127041
+[18:30:32] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! -8.563926328236903,0.0,5.620279567227186
+[18:30:33] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 8.5558559444612,0.0,-5.637633102727619
+[18:30:33] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 8.921611477394435,0.0,-5.795255560032956
+[18:30:33] [Server thread/WARN]: Boat (vehicle of jenja) moved too quickly! 9.285245622653747,0.0,-5.957435948653284
+[18:32:15] [Server thread/INFO]: jenja lost connection: Disconnected
+[18:32:15] [Server thread/INFO]: jenja left the game
+[19:51:31] [Server thread/INFO]: Stopping the server
+[19:51:31] [Server thread/INFO]: Stopping server
+[19:51:31] [Server thread/INFO]: Saving players
+[19:51:31] [Server thread/INFO]: Saving worlds
+[19:51:31] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[19:51:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:51:31] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[19:51:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:51:31] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[19:51:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:51:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:51:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:51:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
