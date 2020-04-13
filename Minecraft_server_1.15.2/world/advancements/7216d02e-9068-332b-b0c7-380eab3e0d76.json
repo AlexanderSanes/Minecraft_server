@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_black_dye": "2020-04-13 14:56:31 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_stairs": {
     "criteria": {
       "has_purpur_block": "2020-04-06 17:32:16 +0300"
@@ -425,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2020-04-12 22:22:21 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2020-03-22 14:28:11 +0300"
@@ -434,6 +446,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2020-03-24 16:28:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2020-04-13 14:56:05 +0300"
     },
     "done": true
   },
@@ -641,6 +659,7 @@
       "minecraft:shulker": "2020-04-06 17:30:24 +0300",
       "minecraft:enderman": "2020-03-31 23:04:18 +0300",
       "minecraft:zombie": "2020-03-22 15:19:32 +0300",
+      "minecraft:drowned": "2020-04-12 22:39:48 +0300",
       "minecraft:zombie_villager": "2020-04-01 18:03:00 +0300"
     },
     "done": false
@@ -825,6 +844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_light_gray_dye": "2020-04-13 14:56:21 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-22 15:59:53 +0300"
@@ -900,6 +925,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2020-03-22 15:59:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2020-04-12 22:35:33 +0300"
     },
     "done": true
   },
@@ -1206,6 +1237,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2020-03-28 18:18:59 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2020-04-13 14:56:31 +0300"
     },
     "done": true
   },
@@ -1543,6 +1580,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_white_flower": "2020-04-12 22:34:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2020-04-13 14:56:31 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2020-03-24 16:28:12 +0300"
@@ -1817,6 +1866,7 @@
     "criteria": {
       "cooked_porkchop": "2020-03-22 14:28:02 +0300",
       "cooked_mutton": "2020-03-19 15:58:51 +0300",
+      "sweet_berries": "2020-04-12 22:08:57 +0300",
       "cooked_beef": "2020-03-22 15:04:47 +0300",
       "chorus_fruit": "2020-04-06 17:18:46 +0300",
       "baked_potato": "2020-03-19 17:38:46 +0300",
@@ -2483,6 +2533,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2020-04-12 22:34:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2020-04-12 22:31:29 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2020-03-24 16:13:50 +0300"
@@ -3035,6 +3097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_yellow_dye": "2020-04-13 14:55:49 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2020-03-19 16:25:12 +0300"
@@ -3056,6 +3124,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2020-03-19 16:44:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_pink_dye": "2020-04-13 14:56:05 +0300"
     },
     "done": true
   },
